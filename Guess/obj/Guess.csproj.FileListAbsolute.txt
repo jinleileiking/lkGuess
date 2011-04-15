@@ -1,0 +1,11 @@
+D:\Leiking\Study\_.NET\Guess\Guess\obj\Debug\ResolveAssemblyReference.cache
+D:\Leiking\Study\_.NET\Guess\Guess\obj\Debug\Guess.FormMain.resources
+D:\Leiking\Study\_.NET\Guess\Guess\obj\Debug\Guess.Properties.Resources.resources
+D:\Leiking\Study\_.NET\Guess\Guess\obj\Debug\Guess.csproj.GenerateResource.Cache
+D:\Leiking\Study\_.NET\Guess\Guess\bin\Debug\Guess.exe
+D:\Leiking\Study\_.NET\Guess\Guess\bin\Debug\Guess.pdb
+D:\Leiking\Study\_.NET\Guess\Guess\obj\Debug\Guess.exe
+D:\Leiking\Study\_.NET\Guess\Guess\obj\Debug\Guess.pdb
+D:\Leiking\Study\_.NET\Guess\Guess\bin\Debug\baozi.jpg
+D:\Leiking\Study\_.NET\Guess\Guess\bin\Debug\chui.jpg
+D:\Leiking\Study\_.NET\Guess\Guess\bin\Debug\jianzi.jpg
